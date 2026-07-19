@@ -1,1 +1,2 @@
+Welcome to GitHub Practice!
 Let's learn Git!
